@@ -9,18 +9,23 @@ https://www.kaggle.com/sayantandas30011998/zanzibar-openai-building-footprint-ma
 # Keras Unet Collection
 https://github.com/yingkaisha/keras-unet-collection/tree/main/examples
 
-# Used Architectures 
-<h3> U-Net</h3>
-![](https://miro.medium.com/max/680/1*TXfEPqTbFBPCbXYh2bstlA.png)<br/>
+# Architectures Used
+# U-Net
+![U-Net](https://miro.medium.com/max/1838/1*f7YOaE4TWubwaFF7Z1fzNw.png)
 
 paper: https://arxiv.org/pdf/1505.04597.pdf
-<h3>Attention U-Net</h3>
-![](https://www.researchgate.net/publication/324472010/figure/fig1/AS:614439988494349@1523505317982/A-block-diagram-of-the-proposed-Attention-U-Net-segmentation-model-Input-image-is.png)
-paper: https://arxiv.org/pdf/1804.03999.pdf
-<h3>TransU-Net</h3>
-![](https://vitalab.github.io/article/images/transUnet/sc01.jpg)
-paper: https://arxiv.org/pdf/2102.04306.pdf
 
+# Attention U-Net
+
+![Attention U-Net](https://miro.medium.com/max/1838/1*J3Rlq9K-ldxdJ5XWa4cD9g.png)
+
+paper: https://arxiv.org/pdf/1804.03999.pdf
+
+# TransUnet
+
+![TransUNet](https://vitalab.github.io/article/images/transUnet/sc01.jpg)
+
+paper: https://arxiv.org/pdf/2102.04306.pdf
 
 
 
