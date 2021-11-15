@@ -1,7 +1,14 @@
 # IAV HASSAN II, RABAT, MOROCCO
-![](https://iav.ac.ma/themes/highsta/images/logo_iav2.png)
+![IAV](https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_iav.png)
 # Building Segmentation
-Using Attention-Unet-web-app; Example of Attention-Unet model; Unet; VGG16; TransUnet; Attention U-Net; Augmentation;
+Using 
+Attention-Unet-web-app;
+Example of Attention-Unet model;
+Unet;
+VGG16;
+TransUnet;
+Attention U-Net;
+Augmentation;
 
 # Dataset
 https://www.kaggle.com/sayantandas30011998/zanzibar-openai-building-footprint-mapping
@@ -26,7 +33,5 @@ paper: https://arxiv.org/pdf/1804.03999.pdf
 ![TransUNet](https://vitalab.github.io/article/images/transUnet/sc01.jpg)
 
 paper: https://arxiv.org/pdf/2102.04306.pdf
-
-
 
 
